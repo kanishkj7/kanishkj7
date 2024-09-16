@@ -1,4 +1,4 @@
-## Hi there 👋,🌱 I’m currently learning about Cryptocurrencies and NFTs
+## Hi there 👋,🌱 I’m currently learning web development 
 
 <!--
 **kanishkj7/kanishkj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
